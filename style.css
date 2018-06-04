@@ -2,7 +2,7 @@ body {
 	font-family: Arial;
 }
 
-input {
+textarea {
 	width: 70%;
 	height: 200px;
 	margin: 20px;
