@@ -1,0 +1,15 @@
+body {
+	font-family: Arial;
+}
+
+input {
+	width: 70%;
+	height: 200px;
+	margin: 20px;
+}
+
+button {
+	width: 100px;
+	height: 30px;
+	margin: 5px;
+}
